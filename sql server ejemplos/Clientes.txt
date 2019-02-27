@@ -1,0 +1,11 @@
+códigocliente;nombre;dirección;estado;teléfono;sexo
+1;Anayeli;alberdi9123;Monterrey;45687788;femenino
+2;laura;montiel265;DF;46358877;femenino
+3;martin;caruche531;DF;46354412;masculino
+4;nicolas;reconquista23;DF;49526487;masculino
+5;angela;timoteo1590;Monterrey;4275451;femenino
+6;ricardo;calderon101;Monterrey;44438614;masculino
+7;florencia;pedernera150;DF;46137787;femenino
+8;karla;Avasolo3321;puebla;42914487;masculino
+9;anibal;miro607;DF;46822887;masculino
+10;Tomas;zeleda185;puebla;47503143;femenino

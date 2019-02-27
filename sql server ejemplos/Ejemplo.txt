@@ -1,0 +1,7 @@
+Matricula;Nombre;Escuela
+8888;Nayely;Neza
+9999;Mirian;Neza
+7777;Gisell;Neza
+19960;jouseth;Neza
+66666;Roberto;Neza
+00001;Barbara;Neza
